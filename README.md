@@ -1,4 +1,4 @@
-#🗺️  Buscador de CEP
+# 🌍 Buscador de CEP
 
 Essa aplicação que permite ao usuário inserir um CEP (Código de Endereçamento Postal) para obter informações sobre o endereço associado, como rua, bairro, cidade, e estado. 
 
