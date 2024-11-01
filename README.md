@@ -5,6 +5,8 @@ Essa aplicação que permite ao usuário inserir um CEP (Código de Endereçamen
 Este é um projeto desenvolvido em React Native que usa React Navigation para navegação. Siga os passos abaixo para instalar e executar o projeto no seu ambiente de desenvolvimento.
 
 ## Pré-requisitos
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 - **Node.js** - [Instale a versão recomendada](https://nodejs.org/)
 - **NPM** (Normalmente vem com o Node.js) 
