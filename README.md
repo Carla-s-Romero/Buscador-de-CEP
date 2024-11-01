@@ -20,11 +20,11 @@ Este é um projeto desenvolvido em React Native que usa React Navigation para na
 
 1 - Clone este repositório em sua máquina:
 
-    git clone https://github.com/usuario/meu-projeto-react-native.git
+    git clone https://github.com/Carla-s-Romero/Buscador-de-CEP.git
 
 2 - Acesse a pasta do projeto:
 
-    cd meu-projeto-react-native
+    cd BuscadorCep
 
 3 - Instale as dependências necessárias:
 
